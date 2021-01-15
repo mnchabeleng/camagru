@@ -2,6 +2,8 @@
 
 Camagru is a web application developed in php(No frameworks) that allow user to make basic photo editing, photos are uploaded using webcam or directly from user's computer.
 
+![Camagru](https://raw.githubusercontent.com/mnchabeleng/Camagru/master/screenshots/camagru.jpg)
+
 ### Objectives
 
 * our web application must produce no errors, no warning or log line in any console,server side and client side. Nonetheless, due to the lack of HTTPS, any error relatedtogetUserMedia()are tolerated.
