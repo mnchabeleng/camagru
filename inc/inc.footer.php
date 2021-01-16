@@ -1,4 +1,4 @@
-<footer>&copycamagru</footer>
+<footer>&copy;camagru</footer>
 </div>
 </body>
 </html>
