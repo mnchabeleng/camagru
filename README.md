@@ -6,7 +6,7 @@ Camagru is a web application developed primarily in php(No frameworks), it allow
 
 ### Objectives
 
-* Your web application must produce no errors, no warning or log line in any console,server side and client side. Nonetheless, due to the lack of HTTPS, any error relatedtogetUserMedia()are tolerated.
+* Your web application must produce no errors, no warning or log line in any console, server side and client side. Nonetheless, due to the lack of HTTPS, any error related to getUserMedia() are tolerated.
 * You must use ony PHP language to create your server-side application, with just the standard library.
 * Client-side, your pages must use HTML, CSS and JavaScript.
 * Every framework, micro-framework or library that you don’t create are totally forbidden, except for CSS frameworks that doesn’t need forbidden JavaScript.
