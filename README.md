@@ -4,7 +4,7 @@ Camagru is a web application developed primarily in php(No frameworks), it allow
 
 ### Created using
 - PHP
-- XAMP / MAMP / LAMP
+- WAMP / MAMP / LAMP
 - HTML
 - CSS
 - Javascript
