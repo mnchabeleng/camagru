@@ -10,6 +10,17 @@ Camagru is a web application developed primarily in php(No frameworks), it allow
 - Javascript
 - Mysql
 
+### Download
+
+```
+1. Download zip
+2. Extract files
+```
+
+```
+1. git https://github.com/mnchabeleng/Camagru.git
+```
+
 ### Setup
 
 ```
