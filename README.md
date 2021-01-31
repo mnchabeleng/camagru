@@ -18,7 +18,7 @@ Camagru is a web application developed primarily in php(No frameworks), it allow
 ```
 
 ```
-1. git https://github.com/mnchabeleng/Camagru.git
+1. git clone https://github.com/mnchabeleng/Camagru.git
 ```
 
 ### Setup
