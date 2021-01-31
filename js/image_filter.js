@@ -13,16 +13,3 @@
     });
 
 })();
-
-/*
-//const image = document.querySelector("img");
-const image = document.getElementById("img");
-const filter_controls = document.querySelectorAll("input[type=range]");
-function applyFilter() {
-    let computed_filters = "";
-    filter_controls.forEach(function(item, index){
-        computed_filters += item.getAttribute("data-filter") + "(" + item.value + item.getAttribute("data-scale") + ")";
-    });
-    image.style.filter = computed_filters;
-};
-*/

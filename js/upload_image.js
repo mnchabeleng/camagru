@@ -15,17 +15,3 @@ let loadSticker = function(){
         sticker.src = "";
     }
 }
-
-/*
-let upload_image = document.getElementById("upload_image_submit");
-const canvas = document.getElementById("canvas");
-const context = canvas.getContext("2d");
-
-upload_image.addEventListener("click", function(){
-    let image = document.getElementById("image");
-    let sticker = document.getElementById("sticker");
-    canvas.width = image.naturalWidth;
-    canvas.height = image.naturalHeight;
-    context.drawImage(image, 0, 0, canvas.width, canvas.height);
-});
-*/
